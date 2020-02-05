@@ -1,0 +1,323 @@
+@media (max-width: 2000px) {
+  body {
+    background-color: #a9fffd;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    line-height: 20px
+  }
+
+  h1, h2, h3 {
+    color: red;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    line-height: 10px;
+  }
+
+  h1 {
+    letter-spacing: 20px;
+    font-family: 'Sigmar One', cursive;
+  }
+
+  li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  a {
+    color: blue;
+    font-size: 30px
+  }
+
+  a:hover {
+    transition: 0.5s;
+    font-size: 60px;
+  }
+
+  .container {
+    text-align: center;
+    margin: 30px;
+  }
+
+  .card {
+  background-color: yellow;
+  padding: 20px;
+  margin: 50px 250px;
+  border-radius: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .footer {
+    background-color: none;
+    margin: 20px 600px;
+    padding: 0.5em;
+  }
+
+  .img-circle {
+    border-radius: 50%;
+  }
+
+  .wiki-button {
+    color: grey;
+    font-size: 25px;
+    background-color: white;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 2px;
+    margin-bottom: 20px;
+    box-shadow: 8px 5px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .wiki-button:hover {
+    color: grey;
+    font-size: 35px
+  }
+
+  .gif {
+    margin-bottom: 20px
+  }
+}
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  body {
+    background-color: #a9fffd;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    line-height: 20px
+  }
+
+  h1, h2, h3 {
+    color: red;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    line-height: 10px;
+  }
+
+  h1 {
+    letter-spacing: 20px;
+    font-family: 'Sigmar One', cursive;
+  }
+
+  li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  a {
+    color: blue;
+    font-size: 30px
+  }
+
+  a:hover {
+    transition: 0.5s;
+    font-size: 60px;
+  }
+
+  .container {
+    text-align: center;
+    margin: 30px;
+  }
+
+  .card {
+  background-color: yellow;
+  padding: 20px;
+  margin: 50px 212px;
+  border-radius: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .footer {
+    background-color: none;
+    margin: 20px 600px;
+    padding: 0.5em;
+  }
+
+  .img-circle {
+    border-radius: 50%;
+  }
+
+  .wiki-button {
+    color: grey;
+    font-size: 25px;
+    background-color: white;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 2px;
+    margin-bottom: 20px;
+    box-shadow: 8px 5px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .wiki-button:hover {
+    color: grey;
+    font-size: 35px
+  }
+
+  .gif {
+    margin-bottom: 20px
+  }
+}
+
+@media (max-width: 790px) {
+  /* For a screen < 720px, this CSS will be read */
+  body {
+    background-color: #a9fffd;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    line-height: 20px
+  }
+
+  h1, h2, h3 {
+    color: red;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    line-height: 10px;
+  }
+
+  h1 {
+    letter-spacing: 20px;
+    font-family: 'Sigmar One', cursive;
+  }
+
+  li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  a {
+    color: blue;
+    font-size: 30px
+  }
+
+  a:hover {
+    transition: 0.5s;
+    font-size: 60px;
+  }
+
+  .container {
+    text-align: center;
+    margin: 30px;
+  }
+
+  .card {
+  background-color: yellow;
+  padding: 20px;
+  margin: 50px 200px;
+  border-radius: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .footer {
+    background-color: none;
+    margin: 20px 600px;
+    padding: 0.5em;
+  }
+
+  .img-circle {
+    border-radius: 50%;
+  }
+
+  .wiki-button {
+    color: grey;
+    font-size: 25px;
+    background-color: white;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 2px;
+    margin-bottom: 20px;
+    box-shadow: 8px 5px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .wiki-button:hover {
+    color: grey;
+    font-size: 35px
+  }
+
+  .gif {
+    margin-bottom: 20px
+  }
+}
+
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+    body {
+    background-color: #a9fffd;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    line-height: 20px
+  }
+
+  h1, h2, h3 {
+    color: red;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    line-height: 10px;
+  }
+
+  h1 {
+    letter-spacing: 20px;
+    font-family: 'Sigmar One', cursive;
+  }
+
+  li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+  a {
+    color: blue;
+    font-size: 30px
+  }
+
+  a:hover {
+    transition: 0.5s;
+    font-size: 60px;
+  }
+
+  .container {
+    text-align: center;
+    margin: 30px;
+  }
+
+  .card {
+  background-color: yellow;
+  padding: 20px;
+  margin: 50px 100px;
+  border-radius: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .footer {
+    background-color: none;
+    margin: 20px 600px;
+    padding: 0.5em;
+  }
+
+  .img-circle {
+    border-radius: 50%;
+  }
+
+  .wiki-button {
+    color: grey;
+    font-size: 25px;
+    background-color: white;
+    text-decoration: none;
+    border: solid 1px;
+    padding: 2px;
+    margin-bottom: 20px;
+    box-shadow: 8px 5px 2px 1px rgba(0, 0, 255, .1);
+  }
+
+  .wiki-button:hover {
+    color: grey;
+    font-size: 35px
+  }
+
+  .gif {
+    margin-bottom: 20px
+  }
+}
+
